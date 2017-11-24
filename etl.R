@@ -1,6 +1,6 @@
 
 # Load WCA data -----------------------------------------------------------
-library(data.table);library(dplyr);library(downloader);library(ggplot2);library(dplyr)
+library(data.table);library(dplyr);library(downloader);library(ggplot2)
 
 temp <- tempfile()
 link <- ('https://www.worldcubeassociation.org/results/misc/WCA_export.tsv.zip')
